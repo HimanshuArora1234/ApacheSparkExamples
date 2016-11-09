@@ -1,7 +1,7 @@
 # ApacheSparkExamples
-Map reduce jobs treatment by Apache spark examples.
+examples of pap reduce jobs treated by Apache spark.
 
-Two jobs are created here which runs on the following datasets as input:
+Two jobs are created here which run on the following datasets as input:
 
 **user_test.txt**
 
