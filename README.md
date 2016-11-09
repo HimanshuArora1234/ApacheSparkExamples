@@ -1,5 +1,5 @@
 # ApacheSparkExamples
-examples of pap reduce jobs treated by Apache spark.
+Examples of pap reduce jobs treated by Apache spark.
 
 Two jobs are created here which run on the following datasets as input:
 
